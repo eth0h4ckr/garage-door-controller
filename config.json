@@ -44,22 +44,12 @@
 		"left" : 
 			{
 			"name" : "LEFT",
-			"relay_pin" : 23,
+			"relay_pin" : 4,
 			"state_pin" : 17,
 			"state_pin_closed_value" : 0,
 			"approx_time_to_close" : 15,
 			"approx_time_to_open" : 15,
 			"openhab_name" : "g_door_left"
 			},
-		"right" : 
-			{
-			"name" : "RIGHT",
-			"relay_pin" : 24,
-			"state_pin" : 21,
-			"state_pin_closed_value" : 0,
-			"approx_time_to_close" : 15,
-			"approx_time_to_open" : 15,
-			"openhab_name" : "g_door_right"
-			}
 	}
 }
